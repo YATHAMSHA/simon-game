@@ -1,1 +1,1 @@
-# snake-game
+# simon-game
